@@ -1,14 +1,23 @@
-Algoritmo "Exemplo"
+Algoritmo "IMC"
 // 
 //  
 // Autor(a)    : Tharsila Borges Alves
 // Data atual  : 23/05/2022
-Var nome: caractere
+Var
 // Seção de Declarações das variáveis 
+nome: caractere
+peso, altura, imc: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreva("Digite seu nome:")
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("Digite seu nome: ")
 leia(nome)
-escreva("Seja bem-vindo: " + nome)
+escreva("Digite sua altura: ")
+leia(altura)
+escreva("Digite seu peso: ")
+leia(peso)
+imc <- peso / (altura * altura)
+escreva("Nome: ", nome, " || ", "Altura:", altura, "cm", " || " , "Peso:", peso, "kgs", " || ")
+escreva("IMC: ", imc)
+
 Fimalgoritmo
