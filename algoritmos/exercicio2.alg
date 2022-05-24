@@ -12,11 +12,12 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreva("Digite seu nome: ")
 leia(nome)
-escreva("Digite sua altura: ")
+escreva("Digite sua altura em cm: ")
 leia(altura)
-escreva("Digite seu peso: ")
+escreva("Digite seu peso em kgs: ")
 leia(peso)
-imc <- peso / (altura * altura)
+imc <- peso / ((altura / 100) * (altura / 100))
+
 escreva("Nome: ", nome, " || ", "Altura:", altura, "cm", " || " , "Peso:", peso, "kgs", " || ")
 escreva("IMC: ", imc)
 
