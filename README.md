@@ -18,7 +18,7 @@
 | :---------- | :----------------------------------: |
 | [Exercício 1](./algoritmos/exercicio1.alg) | Comandos iniciais no VISUALG |
 | [Exercício 2](./algoritmos/exercicio2.alg) | Calcula IMC |
-| [Exercício 3](./algoritmos/exercicio3.alg) | |
+| [Exercício 3](./algoritmos/exercicio3.alg) | Verifica idade |
 | [Exercício 4](./algoritmos/exercicio4.alg) | |
 | [Exercício 5](./algoritmos/exercicio5.alg) | |
 | [Exercício 6](./algoritmos/exercicio6.alg) | |
