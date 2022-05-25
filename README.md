@@ -32,7 +32,7 @@
 | [Exercício 14](./algoritmos/exercicio14.alg) | Escolha transações bancárias com repetição de transações |
 | [Exercício 15](./algoritmos/exercicio15.alg) | Tabuada com estrutura 'enquanto' |
 | [Exercício 16](./algoritmos/exercicio16.alg) | Verifica usuário e senha|
-| [Exercício 17](./algoritmos/exercicio17.alg) | Calculadora básica com estutura 'enquanto' |
+| [Exercício 17](./algoritmos/exercicio17.alg) | Calculadora básica com estrutura 'enquanto' |
 | [Exercício 18](./algoritmos/exercicio18.alg) | Escolha transações bancárias com estrutura 'enquanto' |
   
 
