@@ -19,10 +19,10 @@
 | [Exercício 1](./algoritmos/exercicio1.alg) | Comandos iniciais no VISUALG |
 | [Exercício 2](./algoritmos/exercicio2.alg) | Calcula IMC |
 | [Exercício 3](./algoritmos/exercicio3.alg) | Verifica idade |
-| [Exercício 4](./algoritmos/exercicio4.alg) | |
-| [Exercício 5](./algoritmos/exercicio5.alg) | |
-| [Exercício 6](./algoritmos/exercicio6.alg) | |
-| [Exercício 7](./algoritmos/exercicio7.alg) | |
+| [Exercício 4](./algoritmos/exercicio4.alg) | Valor do deposito|
+| [Exercício 5](./algoritmos/exercicio5.alg) | Calcula IMC e mostra a classificação |
+| [Exercício 6](./algoritmos/exercicio6.alg) | Verifica idade e mostra a classificação etária |
+| [Exercício 7](./algoritmos/exercicio7.alg) | Atualiza saldo bancario de acordo com a escolha do usuário |
 | [Exercício 8](./algoritmos/exercicio8.alg) | |
 | [Exercício 9](./algoritmos/exercicio9.alg) | |
 | [Exercício 10](./algoritmos/exercicio10.alg) | |
