@@ -47,8 +47,8 @@ escolha operacao
    escreval("A conta é: ",conta)
 fimescolha
 
-   escreval("A operação realizada foi: ",operRealizada)
-   escreval("Seu saldo inicial era de: R$ ", saldoInicial)
-   escreval("O saldo atual da sua conta é: R$ ",saldoFinal)
+escreval("A operação realizada foi: ",operRealizada)
+escreval("Seu saldo inicial era de: R$ ", saldoInicial)
+escreval("O saldo atual da sua conta é: R$ ",saldoFinal)
 
 Fimalgoritmo
