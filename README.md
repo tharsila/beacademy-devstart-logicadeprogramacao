@@ -34,6 +34,25 @@
 | [Exercício 16](./algoritmos/exercicio16.alg) | Verifica usuário e senha|
 | [Exercício 17](./algoritmos/exercicio17.alg) | Calculadora básica com estrutura 'enquanto' |
 | [Exercício 18](./algoritmos/exercicio18.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 19](./algoritmos/exercicio19.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 20](./algoritmos/exercicio20.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 21](./algoritmos/exercicio21.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 22](./algoritmos/exercicio22.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 23](./algoritmos/exercicio23.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 24](./algoritmos/exercicio24.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 25](./algoritmos/exercicio25.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+
+<hr>
+
+<h2 id="tecnologias">:hammer_and_wrench:Tecnologias</h2>
+<p>A seguinte ferramenta foi usada na construção dos algoritmos:</p>
+ 
+<h3>Utilitário</h3>
+<ul>
+ <li><p> Editor e interpretador de algoritmos: <a href="https://visualg3.com.br/">VisuAlg</a></p>
+</ul>
+
+<hr>
   
 
 <h2 id="licença">:memo:Licença</h2>
