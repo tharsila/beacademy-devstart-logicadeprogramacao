@@ -34,13 +34,13 @@
 | [Exercício 16](./algoritmos/exercicio16.alg) | Verifica usuário e senha|
 | [Exercício 17](./algoritmos/exercicio17.alg) | Calculadora básica com estrutura 'enquanto' |
 | [Exercício 18](./algoritmos/exercicio18.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 19](./algoritmos/exercicio19.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 20](./algoritmos/exercicio20.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 21](./algoritmos/exercicio21.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 22](./algoritmos/exercicio22.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 23](./algoritmos/exercicio23.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 24](./algoritmos/exercicio24.alg) | Escolha transações bancárias com estrutura 'enquanto' |
-| [Exercício 25](./algoritmos/exercicio25.alg) | Escolha transações bancárias com estrutura 'enquanto' |
+| [Exercício 19](./algoritmos/exercicio19.alg) | Verifica usuário e senha com estrutura 'repita ate' |
+| [Exercício 20](./algoritmos/exercicio20.alg) | Verifica a quantidade de idades informadas |
+| [Exercício 21](./algoritmos/exercicio21.alg) | Soma os cem primeiros números |
+| [Exercício 22](./algoritmos/exercicio22.alg) | |
+| [Exercício 23](./algoritmos/exercicio23.alg) | |
+| [Exercício 24](./algoritmos/exercicio24.alg) | |
+| [Exercício 25](./algoritmos/exercicio25.alg) | |
 
 <hr>
 
