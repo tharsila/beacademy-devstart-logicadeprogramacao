@@ -37,7 +37,7 @@
 | [Exercício 19](./algoritmos/exercicio19.alg) | Verifica usuário e senha com estrutura 'repita ate' |
 | [Exercício 20](./algoritmos/exercicio20.alg) | Verifica a quantidade de idades informadas |
 | [Exercício 21](./algoritmos/exercicio21.alg) | Soma os cem primeiros números |
-| [Exercício 22](./algoritmos/exercicio22.alg) | |
+| [Exercício 22](./algoritmos/exercicio22.alg) | Verifica saldo bancário |
 | [Exercício 23](./algoritmos/exercicio23.alg) | |
 | [Exercício 24](./algoritmos/exercicio24.alg) | |
 | [Exercício 25](./algoritmos/exercicio25.alg) | |
