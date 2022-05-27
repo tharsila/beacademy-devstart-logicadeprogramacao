@@ -38,9 +38,9 @@
 | [Exercício 20](./algoritmos/exercicio20.alg) | Verifica a quantidade de idades informadas |
 | [Exercício 21](./algoritmos/exercicio21.alg) | Soma os cem primeiros números |
 | [Exercício 22](./algoritmos/exercicio22.alg) | Verifica saldo bancário |
-| [Exercício 23](./algoritmos/exercicio23.alg) | |
-| [Exercício 24](./algoritmos/exercicio24.alg) | |
-| [Exercício 25](./algoritmos/exercicio25.alg) | |
+| [Exercício 23](./algoritmos/exercicio23.alg) | Armazena nome e preço de mercadorias |
+| [Exercício 24](./algoritmos/exercicio24.alg) | Armazena nota e mostra media dos alunos |
+| [Exercício 25](./algoritmos/exercicio25.alg) | Armazena dados do usuário |
 
 <hr>
 
